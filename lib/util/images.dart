@@ -9,7 +9,7 @@ class Images {
   static const String location_marker = 'assets/image/location_marker.png';
   static const String lock = 'assets/image/lock.png';
   static const String mail = 'assets/image/mail.png';
-  static const String splash = 'assets/image/splash.png';
+  static const String splash = 'assets/image/splash.jpg';
   static const String Swahili = 'assets/image/Swahili.png';
   static const String map = 'assets/image/map.png';
   static const String onboard_1 = 'assets/image/onboard_1.png';
